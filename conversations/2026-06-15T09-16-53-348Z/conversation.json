@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "text": "HI i am your nurse today. how can i help you",
+    "timestamp": 1781514984263
+  },
+  {
+    "role": "assistant",
+    "text": "Oh, hello... um, thank you. Well, I suppose I’m here because of this colonoscopy I’ve got coming up. I’m feeling a bit anxious about it, to be honest. I don’t quite understand everything about why I need it or what’s going to happen. It’s all a bit overwhelming, really. Could you, er... explain a bit more about it?",
+    "timestamp": 1781514984263
+  },
+  {
+    "role": "user",
+    "text": "are you feeling pain in anywhere?",
+    "timestamp": 1781515002408
+  },
+  {
+    "role": "assistant",
+    "text": "Well, not exactly pain, but I’ve been having some discomfort in my abdomen now and again. It's not constant, but it’s enough to make me worry. And, um… I’ve noticed some blood in my stool a few times, which has been quite unsettling. That’s why my GP referred me for this colonoscopy, I think. It’s all a bit nerve-wracking, to be honest. Do you think it could be something serious?",
+    "timestamp": 1781515002408
+  }
+]
